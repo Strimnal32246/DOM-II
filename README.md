@@ -4,7 +4,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 ## Set Up The Project With Git
 
-**Follow these steps to set up and work on your project:**
+**Follow these steps to set up and work on your project:**               
 
 * [ ] Create a forked copy of this project.
 * [ ] Add your project manager as collaborator on Github.
